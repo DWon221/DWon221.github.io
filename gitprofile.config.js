@@ -24,9 +24,9 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://DWon.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'kblueblue55@gmail.com',
   },
   resume: {
     fileUrl:
