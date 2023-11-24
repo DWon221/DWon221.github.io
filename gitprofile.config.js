@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/DWon221/DWon221.github.io/blob/main/KakaoTalk_20231124_213124029.jpg', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
