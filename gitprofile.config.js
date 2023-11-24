@@ -19,8 +19,8 @@ const config = {
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'DWon',
+    dev: 'DWon',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
@@ -74,16 +74,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
+      institution: 'Gang-Seo HighSchool',
       degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      from: '2016',
+      to: '2018',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Sungkyunkwan University',
+      degree: 'Scholor',
+      from: '2020',
+      to: '2024',
     },
   ],
 
