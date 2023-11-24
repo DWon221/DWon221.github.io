@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'DWon',
+    linkedin: 'DWon221',
     twitter: 'DWon221',
     mastodon: 'kblueblue@naver.com',
     facebook: '',
@@ -19,12 +19,12 @@ const config = {
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'DWon',
-    dev: 'DWon',
+    medium: 'DWon221',
+    dev: 'DWon221',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://DWon.com',
+    website: 'https://DWon221.com',
     phone: '',
     email: 'kblueblue55@gmail.com',
   },
@@ -50,18 +50,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'CPRESS',
+      position: 'BACK-END',
       from: 'September 2021',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://CPRESS.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'KLAB',
+      position: 'BACK-END',
       from: 'July 2019',
       to: 'August 2021',
-      companyLink: 'https://example.com',
+      companyLink: 'https://KLAB.com',
     },
   ],
   /* certifications: [
